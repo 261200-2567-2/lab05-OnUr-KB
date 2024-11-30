@@ -1,4 +1,5 @@
 public class Lab05 {
+
     public static void main(String[] args) {
         // Create instances of characters
         character.Warrior warrior = new character().new WarriorImpl(5, 10); // Level 5, Speed 10

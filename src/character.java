@@ -1,4 +1,5 @@
 public class character {
+
     // Base interface for shared character properties
     public interface Character {
         int getHp();
